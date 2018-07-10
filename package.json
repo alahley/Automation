@@ -8,16 +8,18 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+    "cypress:open": "cypress open"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alahley/Cypress.git"
+    "url": "https://github.com/alahley/Automation.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alahley/Cypress/issues"
+    "url": "https://github.com/alahley/Automation/issues"
   },
-  "homepage": "https://github.com/alahley/Cypress#readme"
+  "homepage": "https://github.com/alahley/Automation#readme"
 }

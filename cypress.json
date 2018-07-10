@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://stats-staging.esjc.kontiki.com/",
+    "chromeWebSecurity": false
+  }
